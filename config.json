@@ -9,12 +9,12 @@
     "eventDisabled": [],
     "EMAIL": "mohammadayan55505@gmail.com",
     "PASSWORD": "ayanfcal22",
-    "OTPKEY": "",
-    "BOTNAME": "botnickname",
+    "OTPKEY": "/",
+    "BOTNAME": "Lolipop:❩🍭🍬🥵",
     "PREFIX": "Bot-prefix",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100013494638409",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
